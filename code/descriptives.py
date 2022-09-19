@@ -4,7 +4,7 @@ import pandas as pd
 from scipy import stats
 import numpy as np
 from pandas.plotting import scatter_matrix # for plotting data
-from statsmodels.formula.api import ols 
+from statsmodels.formula.api import ols # for multiple regressions
 import seaborn ## for statistical visualizations
 from matplotlib import pyplot as plt
 

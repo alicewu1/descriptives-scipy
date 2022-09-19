@@ -1,11 +1,11 @@
 # descriptives-scipy
-For HHA507 Assignment 4
+**For HHA507 Assignment 4**
 
 
-This repo contains: 
+**This repo contains:**
 1. descriptives using brain size dataset written in 2 versions .py and .ipynb
 
-This repo aims to practice:
+**This repo aims to practice:**
 1. Loading in and reading data 
 2. Creating dataframes using numpy arrays
 3. Plotting and manipulating data using scatter matrices
